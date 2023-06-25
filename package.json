@@ -1,0 +1,26 @@
+{
+  "name": "tomoiru-web-server",
+  "version": "1.0.0",
+  "description": "server side code for tomoiru-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mira-kine/tomoiru-web-server.git"
+  },
+  "author": "Mira Kinebuchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mira-kine/tomoiru-web-server/issues"
+  },
+  "homepage": "https://github.com/mira-kine/tomoiru-web-server#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.26.0",
+    "dotenv": "^16.3.1",
+    "nodejs": "^0.0.0",
+    "openai": "^3.3.0"
+  },
+  "type": "module"
+}
