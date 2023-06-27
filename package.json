@@ -19,6 +19,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.26.0",
     "dotenv": "^16.3.1",
+    "embedbase-js": "^1.26.0",
     "nodejs": "^0.0.0",
     "openai": "^3.3.0"
   },
